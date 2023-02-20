@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ioexceptions.docgenerate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ioexceptions.docgenerate.MyBundle
 
 class MyApplicationService {
 
